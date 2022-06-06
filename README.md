@@ -170,6 +170,8 @@ Reset Button
 ## OUTPUT:
 
 
+![WhatsApp Image 2022-06-06 at 9 16 21 AM](https://user-images.githubusercontent.com/75234912/172091338-af080728-f258-4982-80a5-512df9d6710c.jpeg)
+![WhatsApp Image 2022-06-06 at 9 16 20 AM](https://user-images.githubusercontent.com/75234912/172091344-22503852-335f-44fc-8c0d-b51f48d6e928.jpeg)
 
 
 ## RESULT:
